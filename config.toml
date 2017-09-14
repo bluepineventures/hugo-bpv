@@ -1,5 +1,6 @@
 # Site settings
-baseurl = "https://example.org/"
+#baseurl = "https://example.org/"
+baseurl = "."
 languageCode = "en-us"
 title = "Blue Pine Ventures, LLC"
 theme = "hugo-agency-theme"
